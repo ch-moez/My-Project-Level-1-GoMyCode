@@ -1,0 +1,68 @@
+
+body {
+ background-color: #343232;
+}
+
+div {
+	
+}
+
+.clNavFlex {
+	display: flex;
+	flex-wrap: wrap;
+	justify-content: center;
+}
+
+.Bienvenue {
+	color: white;
+	font-size: 50px;
+	text-align: center;
+	
+}
+.TitreDeVoiture {
+	color: white;
+	font-size: 50px;
+	
+}
+
+.myHeader {
+	/*display: flex;*/
+	/*flex-wrap: wrap;*/
+	/*align-items: center;*/
+	/*align-content: center;*/
+}
+
+.carImg {
+	
+}
+
+.carTitle {
+	color: white;
+	font-size: 15px;
+	font-weight: bold;
+}
+
+.myNavBarClass {
+	background-color: black !important; 
+}
+
+.myText {
+	font-size: 20px;
+	color: white;
+	text-align: center;
+}
+
+.myFooter {
+	height: 300px;
+	background-color: black;
+}
+
+.descriptionDeVoiture {
+	color: white;
+	font-size: 20px;
+}
+
+.formLabel {
+	color: white;
+	
+}

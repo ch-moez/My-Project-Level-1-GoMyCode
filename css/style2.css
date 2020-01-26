@@ -1,0 +1,50 @@
+
+.logo {
+	height: 50px;
+	width: 50px;
+	float: left;
+}
+
+nav {
+	display: flex;
+	background-color: black;
+	align-items: center;
+	
+}
+
+nav ul {
+	display: flex;
+	flex-direction: row;
+	align-items: center;
+	justify-content: center;
+	width: 100%
+	/*margin-left: 200px;*/
+	
+}
+
+nav ul li {
+	margin-left: 50px;
+	
+}
+
+li a {
+	text-decoration: none;
+	font-size: 25px;
+	color: white;
+}
+
+body {
+	margin: 0;
+	background-color: #343232;
+}
+
+li a:hover {
+	color: darkgray;
+}
+
+footer {
+	height: 200px;
+	background-color: black !important;
+	text-align: center;
+
+}
